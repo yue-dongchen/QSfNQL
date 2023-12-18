@@ -1,0 +1,11 @@
+// [...]
+    type "CONTROL_SHIFT" {
+        modifiers = Control + Shift;
+	map[None] = Level1;
+	map[Control] = Level2;
+	map[Control+Shift] = Level3;
+	level_name[Level1] = "Base";
+	level_name[Level2] = "Control";
+	level_name[Level3] = "Control Shift";
+    };
+// [...]
