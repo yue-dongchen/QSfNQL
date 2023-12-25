@@ -13,6 +13,12 @@
             <description>German (Neo 2)</description>
           </configItem>
         </variant>
+        <variant>
+          <configItem>
+            <name>neo_qsfnql</name>
+            <description>German (Neo 2, QSfNQL)</description>
+          </configItem>
+        </variant>
       </variantList>
     </layout>
   </layoutList>
